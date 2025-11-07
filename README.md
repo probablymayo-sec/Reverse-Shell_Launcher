@@ -2,7 +2,8 @@
 
 <h3>Breakdown</h3>
 
-though a very short 1 liner, I still will break this down as best as I can
+Though a very short 1 liner, I still will break this down as detailed as I can
+- FYI: don't forget to replace the Attacker IP and port number with the appropriate values
 
 The use of `sleep 10` is used to for waiting until networking service is available before doing anything. 
 
